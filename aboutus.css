@@ -1,0 +1,51 @@
+body {
+margin: 0;
+padding: 0;
+font-family: Arial, sans-serif;
+font-size: 16px;
+}
+header {
+background-color: none;
+color: #fff;
+padding: 40px;
+align: center;
+}
+
+nav ul {
+margin: 10;
+padding: 0;
+list-style: none;
+align: center;
+}
+
+nav ul li {
+display: inline-block;
+margin-left: 50px;
+align: center;
+}
+
+nav ul li a {
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+margin-left: 120px;
+}
+.about {
+  background-color: none;
+  padding: 100px;
+  border: none;
+}
+
+.about h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.about p {
+  font-size: 16px;
+  color: white;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
